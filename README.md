@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jibay-Ai/Jibay_5/refs/heads/main/file_00000000ece08210bf537dc356d29a63(1).png" width="100%">
+</p>
+
 # Jibay 5
 
 > A larger, newer, and more capable generation of the Jibay AI family.
